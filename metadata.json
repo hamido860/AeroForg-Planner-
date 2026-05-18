@@ -1,0 +1,6 @@
+{
+  "name": "AeroForg Planner",
+  "description": "Advanced aerospace production planning with real-time realisation metrics, task tracking, and Hélios ERP feedback integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
